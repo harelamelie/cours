@@ -1,6 +1,10 @@
 # Cadavre exquis #1
 
 Il y avait un violon sur le toit.
-Sa music est jolie !
-test
-test
+<<<<<<< HEAD
+
+
+
+=======
+exo 1
+>>>>>>> test-01
